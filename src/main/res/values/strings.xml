@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">\t\t\t\t\t\t\tLive Tracker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="an">Live Tracker</string>
+    <string name="mail">hello@gmail.com</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="fs">write your feedback and press enter</string>
+    <string name="bt1">ENTER</string>
+    <string name="help">Hi!!!!!!!!!\n
+                Before proceeding to track you have to first install\n
+                an app in another android device which you wanted \n
+                to track.The other app name is "Tracker".After doing\n
+                this you will bee able to track that device with the \n
+                help of this app!!!!!!!!!!!!!!!!!
+    </string>
+    <string name="au">
+        Developers:\n
+        D.Srenitha
+    </string>
+</resources>
